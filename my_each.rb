@@ -7,4 +7,4 @@ def my_each array # put argument(s) here
       array
     end
 
-my_each(array) {|i| i+=1}
+my_each(Array) {|i| i+=1}
